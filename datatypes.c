@@ -10,3 +10,4 @@ int main()
     printf("double value:%.9f\n", d);
     printf("character value:%c\n", d);
     return 0;
+}
